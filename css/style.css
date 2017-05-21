@@ -1,0 +1,23 @@
+p {
+    color: orange;
+}
+
+#identyfikator {
+    color: red;
+}
+
+.nazwa-klasy {
+    color: blue;
+}
+
+p, a, div {
+    color: red;
+}
+
+ul > li {
+    color: darkgreen;
+}
+
+div a {
+    color: fuchsia;
+}
