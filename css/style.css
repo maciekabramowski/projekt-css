@@ -21,3 +21,19 @@ ul > li {
 div a {
     color: fuchsia;
 }
+
+p + a {
+    color: lightseagreen;
+}
+
+h3 ~ p {
+    color: dimgray;
+}
+
+div > p:not(.last){
+    color: brown;
+}
+
+div > p:nth-child(3) {
+    color: darkslateblue;
+}
